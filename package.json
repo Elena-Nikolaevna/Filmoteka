@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://mezochka.github.io/JS-project-07",
+  "homepage": "https://Elena-Nikolaevna.github.io/Filmoteka-team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JS-project-07/"
+    "build": "parcel build src/*.html --public-url /Filmoteka-team-project/"
   },
   "repository": {
     "type": "git",
